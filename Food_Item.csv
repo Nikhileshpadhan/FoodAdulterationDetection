@@ -1,0 +1,98 @@
+Food_Item,Source_Type,Storage_Type,Date_of_Collection,Color,Smell,Texture,Foreign_Particles,Appearance,Float_or_Settle_Test,Dissolves_in_Water,Foam_After_Mixing,Burn_Test_Result,Taste,Is_Adulterated,Suspected_Adulterant,Health_Risk_Level
+Milk,Local Market,Container,2023-01-15,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Rice,Farmer,Sack,2023-01-16,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Turmeric,Vendor,Loose,2023-01-17,Too Bright,Chemical,Powdery,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Wheat,Farmer,Sack,2023-01-18,Normal,Normal,Dry,Stones,Dusty,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Chilli Powder,Local Market,Loose,2023-01-19,Too Bright,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Leaves Black Residue,Sharp,Yes,Color,Moderate
+Tomato,Self-grown,Open,2023-01-20,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Milk,Vendor,Container,2023-01-21,Yellowish,Chemical,Sticky,None,Layered,Mixed,Forms Layer,Excessive Foam,Melts,Bitter,Yes,Detergent,Toxic
+Rice,Local Market,Sack,2023-01-22,Faded,Rotten,Wet,Insects,Clumpy,Floats,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Urea,Moderate
+Wheat,Farmer,Sack,2023-01-23,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Turmeric,Local Market,Covered,2023-01-24,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Milk,Farmer,Container,2023-01-25,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Chilli Powder,Vendor,Loose,2023-01-26,Normal,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,No,None,Safe
+Rice,Farmer,Sack,2023-01-27,Normal,Normal,Dry,Husks,Dusty,Mixed,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Milk,Local Market,Container,2023-01-28,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,Slight Foam,Burns Cleanly,Sweet,Yes,Water,Low Risk
+Tomato,Vendor,Open,2023-01-29,Mixed Shades,Rotten,Sticky,None,Clumpy,Sinks,Leaves Residue,No Foam,Burns Cleanly,Not Tested,Yes,Color,Moderate
+Turmeric,Farmer,Covered,2023-01-30,Too Bright,Chemical,Gritty,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Wheat,Local Market,Sack,2023-01-31,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Vendor,Container,2023-02-01,Yellowish,Chemical,Smooth,None,Layered,Mixed,Forms Layer,Excessive Foam,Plastic Smell,Bitter,Yes,Detergent,Toxic
+Rice,Self-grown,Container,2023-02-02,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Chilli Powder,Local Market,Loose,2023-02-03,Normal,Strong,Powdery,Seeds,Dusty,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,Yes,Stone,Low Risk
+Milk,Farmer,Container,2023-02-04,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Turmeric,Vendor,Loose,2023-02-05,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Wheat,Farmer,Sack,2023-02-06,Normal,No Smell,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Local Market,Container,2023-02-07,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,Slight Foam,Burns Cleanly,Sweet,Yes,Water,Low Risk
+Rice,Vendor,Sack,2023-02-08,Faded,Rotten,Wet,Insects,Clumpy,Floats,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Urea,Moderate
+Tomato,Farmer,Open,2023-02-09,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Chilli Powder,Self-grown,Container,2023-02-10,Normal,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,No,None,Safe
+Milk,Vendor,Container,2023-02-11,Yellowish,Chemical,Sticky,None,Layered,Mixed,Forms Layer,Excessive Foam,Melts,Bitter,Yes,Detergent,Toxic
+Turmeric,Local Market,Covered,2023-02-12,Too Bright,Chemical,Gritty,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Wheat,Local Market,Sack,2023-02-13,Normal,Normal,Dry,Stones,Dusty,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Milk,Farmer,Container,2023-02-14,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Rice,Farmer,Sack,2023-02-15,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Turmeric,Vendor,Loose,2023-02-16,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Chilli Powder,Local Market,Loose,2023-02-17,Too Bright,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Leaves Black Residue,Sharp,Yes,Color,Moderate
+Tomato,Self-grown,Open,2023-02-18,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Milk,Local Market,Container,2023-02-19,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,Slight Foam,Burns Cleanly,Sweet,Yes,Water,Low Risk
+Rice,Local Market,Sack,2023-02-20,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Wheat,Farmer,Sack,2023-02-21,Normal,Normal,Dry,Husks,Dusty,Mixed,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Turmeric,Farmer,Covered,2023-02-22,Too Bright,Chemical,Gritty,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Milk,Vendor,Container,2023-02-23,Yellowish,Chemical,Smooth,None,Layered,Mixed,Forms Layer,Excessive Foam,Plastic Smell,Bitter,Yes,Detergent,Toxic
+Chilli Powder,Vendor,Loose,2023-02-24,Normal,Strong,Powdery,Seeds,Dusty,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,Yes,Stone,Low Risk
+Rice,Self-grown,Container,2023-02-25,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Farmer,Container,2023-02-26,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Tomato,Vendor,Open,2023-02-27,Mixed Shades,Rotten,Sticky,None,Clumpy,Sinks,Leaves Residue,No Foam,Burns Cleanly,Not Tested,Yes,Color,Moderate
+Turmeric,Local Market,Covered,2023-02-28,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Wheat,Local Market,Sack,2023-03-01,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Vendor,Container,2023-03-02,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Rice,Farmer,Sack,2023-03-03,Faded,Rotten,Wet,Insects,Clumpy,Floats,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Urea,Moderate
+Chilli Powder,Local Market,Loose,2023-03-04,Normal,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,No,None,Safe
+Milk,Local Market,Container,2023-03-05,Yellowish,Chemical,Sticky,None,Layered,Mixed,Forms Layer,Excessive Foam,Melts,Bitter,Yes,Detergent,Toxic
+Turmeric,Vendor,Loose,2023-03-06,Too Bright,Chemical,Powdery,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Wheat,Farmer,Sack,2023-03-07,Normal,Normal,Dry,Stones,Dusty,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Tomato,Self-grown,Open,2023-03-08,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Milk,Farmer,Container,2023-03-09,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,Slight Foam,Burns Cleanly,Sweet,Yes,Water,Low Risk
+Rice,Local Market,Sack,2023-03-10,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Turmeric,Local Market,Covered,2023-03-11,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Chilli Powder,Vendor,Loose,2023-03-12,Too Bright,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Leaves Black Residue,Sharp,Yes,Color,Moderate
+Milk,Vendor,Container,2023-03-13,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Wheat,Local Market,Sack,2023-03-14,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Rice,Farmer,Sack,2023-03-15,Normal,Normal,Dry,Husks,Dusty,Mixed,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Milk,Local Market,Container,2023-03-16,Yellowish,Chemical,Smooth,None,Layered,Mixed,Forms Layer,Excessive Foam,Plastic Smell,Bitter,Yes,Detergent,Toxic
+Tomato,Vendor,Open,2023-03-17,Mixed Shades,Rotten,Sticky,None,Clumpy,Sinks,Leaves Residue,No Foam,Burns Cleanly,Not Tested,Yes,Color,Moderate
+Turmeric,Farmer,Covered,2023-03-18,Too Bright,Chemical,Gritty,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Chilli Powder,Self-grown,Container,2023-03-19,Normal,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,No,None,Safe
+Milk,Farmer,Container,2023-03-20,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Rice,Self-grown,Container,2023-03-21,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Wheat,Farmer,Sack,2023-03-22,Normal,No Smell,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Local Market,Container,2023-03-23,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,Slight Foam,Burns Cleanly,Sweet,Yes,Water,Low Risk
+Turmeric,Vendor,Loose,2023-03-24,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Rice,Vendor,Sack,2023-03-25,Faded,Rotten,Wet,Insects,Clumpy,Floats,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Urea,Moderate
+Chilli Powder,Local Market,Loose,2023-03-26,Normal,Strong,Powdery,Seeds,Dusty,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,Yes,Stone,Low Risk
+Tomato,Farmer,Open,2023-03-27,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Milk,Vendor,Container,2023-03-28,Yellowish,Chemical,Sticky,None,Layered,Mixed,Forms Layer,Excessive Foam,Melts,Bitter,Yes,Detergent,Toxic
+Turmeric,Local Market,Covered,2023-03-29,Too Bright,Chemical,Gritty,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Wheat,Local Market,Sack,2023-03-30,Normal,Normal,Dry,Stones,Dusty,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Milk,Farmer,Container,2023-03-31,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Rice,Farmer,Sack,2023-04-01,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Turmeric,Vendor,Loose,2023-04-02,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Chilli Powder,Local Market,Loose,2023-04-03,Too Bright,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Leaves Black Residue,Sharp,Yes,Color,Moderate
+Tomato,Self-grown,Open,2023-04-04,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Milk,Local Market,Container,2023-04-05,Normal,Normal,Smooth,None,Uniform,Sinks,Leaves Residue,Slight Foam,Burns Cleanly,Sweet,Yes,Water,Low Risk
+Rice,Local Market,Sack,2023-04-06,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Wheat,Farmer,Sack,2023-04-07,Normal,Normal,Dry,Husks,Dusty,Mixed,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Stone,Low Risk
+Turmeric,Farmer,Covered,2023-04-08,Too Bright,Chemical,Gritty,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+Milk,Vendor,Container,2023-04-09,Yellowish,Chemical,Smooth,None,Layered,Mixed,Forms Layer,Excessive Foam,Plastic Smell,Bitter,Yes,Detergent,Toxic
+Chilli Powder,Vendor,Loose,2023-04-10,Normal,Strong,Powdery,Seeds,Dusty,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,Yes,Stone,Low Risk
+Rice,Self-grown,Container,2023-04-11,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Farmer,Container,2023-04-12,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Tomato,Vendor,Open,2023-04-13,Mixed Shades,Rotten,Sticky,None,Clumpy,Sinks,Leaves Residue,No Foam,Burns Cleanly,Not Tested,Yes,Color,Moderate
+Turmeric,Local Market,Covered,2023-04-14,Normal,Normal,Powdery,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bitter,No,None,Safe
+Wheat,Local Market,Sack,2023-04-15,Normal,Normal,Dry,None,Uniform,Sinks,Leaves Residue,No Foam,Burns Cleanly,Bland,No,None,Safe
+Milk,Vendor,Container,2023-04-16,Normal,Normal,Smooth,None,Uniform,Sinks,Fully Dissolves,No Foam,Burns Cleanly,Sweet,No,None,Safe
+Rice,Farmer,Sack,2023-04-17,Faded,Rotten,Wet,Insects,Clumpy,Floats,Leaves Residue,No Foam,Burns Cleanly,Bland,Yes,Urea,Moderate
+Chilli Powder,Local Market,Loose,2023-04-18,Normal,Strong,Powdery,None,Uniform,Floats,Leaves Residue,No Foam,Burns Cleanly,Sharp,No,None,Safe
+Milk,Local Market,Container,2023-04-19,Yellowish,Chemical,Sticky,None,Layered,Mixed,Forms Layer,Excessive Foam,Melts,Bitter,Yes,Detergent,Toxic
+Turmeric,Vendor,Loose,2023-04-20,Too Bright,Chemical,Powdery,None,Uniform,Sinks,Leaves Residue,Slight Foam,Leaves Black Residue,Bitter,Yes,Lead Chromate,Toxic
+
