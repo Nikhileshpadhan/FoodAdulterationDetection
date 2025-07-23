@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(
     page_title="Food Adulteration webapp",
     page_icon="🧪",
-    layout="wide"
+    layout="centered"
 )
 
 # --- Model and Encoder Loading ---
