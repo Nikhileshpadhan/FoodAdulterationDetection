@@ -8,7 +8,8 @@ import matplotlib.pyplot as plt
 st.set_page_config(
     page_title="Food Adulteration webapp",
     page_icon="🧪",
-    layout="wide"
+    layout="centered",
+    initial_sidebar_state="expanded",
 )
 
 # --- Model and Encoder Loading ---
@@ -44,7 +45,7 @@ def create_risk_gauge(risk_level):
     current_risk_info = risk_map.get(risk_level, {'value': 0, 'color': 'grey'})
     
     # Create the plot with a smaller figure size
-    fig, ax = plt.subplots(figsize=(3, 3), facecolor='#0e1117') # <-- SIZE REDUCED HERE
+    fig, ax = plt.subplots(figsize=(2, 2), facecolor='#0e1117') # <-- SIZE REDUCED HERE
     
     # Create the donut chart
     ax.pie(values, colors=colors, startangle=90, counterclock=False,
