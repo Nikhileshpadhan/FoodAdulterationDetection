@@ -19,8 +19,9 @@ You can watch a 3-5 minute demonstration of our project in action here. This vid
 ## 📄 Project Presentation (Requirement #2)
 
 Our detailed project presentation is available here. You can view the file directly in this repository.
+Presentation link-
+https://www.canva.com/design/DAGuAqlEfU4/HM3jrhLzuwWoJl89JgjCpw/edit?utm_content=DAGuAqlEfU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-**[Link to Presentation File](./presentation.pdf)** *(Note: Make sure your presentation file is named `presentation.pdf` or update the link accordingly.)*
 
 ---
 
