@@ -1,4 +1,4 @@
-# 🧪 Food Adulteration Detection Dashboard
+# 🧪 Food Adulteration Detection System
 
 ### Team ID: `[ENTER YOUR TEAM ID HERE]`
 ### Team Name: `Gruopno-88`
@@ -8,7 +8,7 @@
 - **Aditya Kumar Mahanta** (24CSEE007)
 ---
 
-## 🎥 Project Demo Video (Requirement #4)
+## 🎥 Project Demo Video 
 
 You can watch a 3-5 minute demonstration of our project in action here. This video covers the project's features, functionality, and how to use the application.
 
@@ -30,7 +30,7 @@ https://1drv.ms/p/c/bfaa017a6c4088bc/ERtHqkjfvwFJoiHwugfCPBQBzJAQDhFiJxzHGkRxImT
 This project is a web-based dashboard built with Streamlit that uses a Machine Learning model to detect potential adulteration in raw food samples based on their sensory attributes. It provides an instant analysis of food safety and potential health risks.
 
 ![Screenshot of the App](./app_screenshot.png) 
-*(Recommendation: Add a screenshot of your app named `app_screenshot.png` to your project folder for a professional look.)*
+
 
 ### Key Features
 - **Interactive UI**: A clean and user-friendly interface to input food sample data.
