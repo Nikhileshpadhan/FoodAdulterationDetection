@@ -3,7 +3,7 @@
 
 ### Team ID: 88(2nd Year)
 ### Team Members:
-- **Maheswta Panda** (24CSE145)
+- **Mahesweta Panda** (24CSE145)
 - **Nikhilesh Padhan** (24CSEDSD40)
 - **Pratyush Dalei** (24CSEE033)
 - **Aditya Kumar Mahanta** (24CSEE007)
