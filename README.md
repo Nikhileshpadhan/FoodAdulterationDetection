@@ -1,7 +1,7 @@
 # 🧪 Food Adulteration Detection System
 
-### Team ID: `[ENTER YOUR TEAM ID HERE]`
-### Team Name: `Gruopno-88`
+### Team ID: 88
+### Team Members:
 - **Maheswta Panda** (24CSE145)
 - **Nikhilesh Padhan** (24CSEDSD40)
 - **Pratyush Dalei** (24CSEE033)
@@ -12,7 +12,7 @@
 
 You can watch a 3-5 minute demonstration of our project in action here. This video covers the project's features, functionality, and how to use the application.
 
-**[PASTE YOUR DEMO VIDEO LINK HERE (YouTube or Google Drive)]**
+**https://drive.google.com/file/d/1hndTfWUYYE6_uYR26jT5oWF_UW_VJTRq/view?usp=drive_link**
 
 ---
 
