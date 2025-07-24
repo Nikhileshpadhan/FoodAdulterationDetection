@@ -16,11 +16,11 @@ You can watch a 3-5 minute demonstration of our project in action here. This vid
 
 ---
 
-## 📄 Project Presentation (Requirement #2)
+## 📄 Project Presentation 
 
 Our detailed project presentation is available here. You can view the file directly.
 Presentation link-
-**[https://1drv.ms/p/c/bfaa017a6c4088bc/ERtHqkjfvwFJoiHwugfCPBQBzJAQDhFiFxzHGkRxImTwQg?e=ah9Hc5](https://1drv.ms/p/c/bfaa017a6c4088bc/ERtHqkjfvwFJoiHwugfCPBQBzJAQDhFiFxzHGkRxImTwQg?e=ah9Hc5)**
+https://1drv.ms/p/c/bfaa017a6c4088bc/ERtHqkjfvwFJoiHwugfCPBQBqYE1h1pBmIMXRKM6lS0P-w
 
 ---
 
