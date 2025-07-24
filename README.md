@@ -29,7 +29,7 @@ https://1drv.ms/p/c/bfaa017a6c4088bc/ERtHqkjfvwFJoiHwugfCPBQBzJAQDhFiJxzHGkRxImT
 
 This project is a web-based dashboard built with Streamlit that uses a Machine Learning model to detect potential adulteration in raw food samples based on their sensory attributes. It provides an instant analysis of food safety and potential health risks.
 
-![Screenshot of the App](./app_screenshot.png) 
+![Screenshot of the App]Screenshot 2025-07-24 075646.png
 
 
 ### Key Features
