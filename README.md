@@ -20,7 +20,7 @@ You can watch a 3-5 minute demonstration of our project in action here. This vid
 
 Our detailed project presentation is available here. You can view the file directly in this repository.
 Presentation link-
-https://www.canva.com/design/DAGuAqlEfU4/HM3jrhLzuwWoJl89JgjCpw/edit?utm_content=DAGuAqlEfU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://1drv.ms/p/c/bfaa017a6c4088bc/ERtHqkjfvwFJoiHwugfCPBQBzJAQDhFiJxzHGkRxImTwQg?e=ah9Hc5
 
 
 ---
